@@ -6,9 +6,8 @@
 
 [Turbofan Engine Design, and Optimisation for an Airbus A320neo](/Turbofan.md)
 
-<a href="Turbofan.md">
-  <img src="images/AirbusEngine.jpg?raw=true"/>
-</a>
+[![Turbofan Engine](images/AirbusEngine.jpg)](Turbofan.md)
+
 ---
 [Airplane Autopilot Landing System Development, and Refinement](/pdf/sample_presentation.pdf)
 
