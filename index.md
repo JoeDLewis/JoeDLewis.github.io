@@ -4,7 +4,7 @@
 
 ### Projects
 
-[Turbofan Engine Design, and Optimisation for an Airbus A320neo](/Turbofan)
+[Turbofan Engine Design, and Optimisation for an Airbus A320neo](/Turbofan.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
