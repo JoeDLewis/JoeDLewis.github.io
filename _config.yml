@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
+title: Joe D. Lewis # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  University of the West of Scotland: Aircraft Engineer BEng (Hons)
   <br><br>
-  Second description 
+  University of Glasgow: Aerospace Engineering PGCert
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/joe-lewis-9882b1224/"> My LinkedIn Profile </a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
