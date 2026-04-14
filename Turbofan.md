@@ -2,7 +2,6 @@
 ### Task
 
 In my postgraduate studies at the University of Glasgow, I was tasked with designing a three shaft turbofan jet engine for the Airbus A320neo. I carried out a constraint analysis, a cycle analysis, and component design for the turbine and compressor stages using the free vortex assumption, all while optimising parameters to improve the specific fuel consumption (sfc) and thrust force of the engine.
-#
 
 ### Actions
 - Using Microsoft Excel, a constraint analysis was created to calculate the design point, allowing me to ascertain the thrust which will be required of the engine, and the expected sfc.
@@ -14,7 +13,6 @@ In my postgraduate studies at the University of Glasgow, I was tasked with desig
 - MATLAB was also utilised during the component design section where I calculated and optimised the spans of individual compressor and turbine blades along with their angles relative to flow direction at the spanwise locations of the root, middle and tip of the blades.
 
 - Another parametric study was conducted at this stage, varying values of stage loading, flow coefficient, and reaction to ensure that the angles of the blades were within a reasonable range.
-#
 
 ### Results
 
@@ -23,7 +21,6 @@ In my postgraduate studies at the University of Glasgow, I was tasked with desig
 - Parametric study for the cycle analysis returned results that would be suitable for the Airbus A320neo and other similarly sized modern aircraft.
 
 - Compressor and turbine blade geometries successfully meet the necessary pressure ratio values calculated in the cycle analysis before, whilst also being reasonable given the restrictions of modern material selection and blade cooling systems.
-#
 
 ### Technical
 
