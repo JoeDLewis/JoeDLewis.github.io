@@ -9,9 +9,9 @@
 [![Turbofan Engine](images/AirbusEngine.jpg)](/Turbofan.html)
 
 ---
-[Airplane Autopilot Landing System Development, and Refinement](/pdf/sample_presentation.pdf)
+[Airplane Autopilot Landing System Development, and Refinement](/Autopilot.md)
 
-<img src="images/Runway.jpg?raw=true"/>
+[![Runway](images/Runway.jpg)](/Autopilot.html)
 
 ---
 [Winglet Design, Simulation, and Optimisation for a Boeing 737-800](http://example.com/)
