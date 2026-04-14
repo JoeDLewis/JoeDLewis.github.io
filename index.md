@@ -4,19 +4,26 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/DUCK.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Turbofan Engine Design, and Optimisation for an Airbus A320neo](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Airplane Autopilot Landing System Development, and Refinement](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+[Winglet Design, Simulation, and Optimisation for a Boeing 737-800](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+---
+[RC STOL Plane Group Design Project](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Response of a T-Beam Under Load using Three Methods](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
