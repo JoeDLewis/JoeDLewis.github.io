@@ -11,18 +11,22 @@
 </a>
 ---
 [Airplane Autopilot Landing System Development, and Refinement](/pdf/sample_presentation.pdf)
+
 <img src="images/Runway.jpg?raw=true"/>
 
 ---
 [Winglet Design, Simulation, and Optimisation for a Boeing 737-800](http://example.com/)
+
 <img src="images/Winglet.jpg?raw=true"/>
 
 ---
 [RC STOL Plane Group Design Project](http://example.com/)
+
 <img src="images/RCPlaneDesign.jpg?raw=true"/>
 
 ---
 [Response of a T-Beam Under Load using Three Methods](http://example.com/)
+
 <img src="images/TBeam.png?raw=true"/>
 
 ---
