@@ -6,7 +6,7 @@
 
 [Turbofan Engine Design, and Optimisation for an Airbus A320neo](/Turbofan.md)
 
-<a href="/Turbofan.md">
+<a href="Turbofan.md">
   <img src="images/AirbusEngine.jpg?raw=true"/>
 </a>
 ---
