@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Projects
 
 [Turbofan Engine Design, and Optimisation for an Airbus A320neo](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
