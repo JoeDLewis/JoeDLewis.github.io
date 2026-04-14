@@ -5,7 +5,7 @@
 ### Projects
 
 [Turbofan Engine Design, and Optimisation for an Airbus A320neo](/Turbofan.md)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/AirbusEngine.jpg?raw=true"/>
 
 ---
 [Airplane Autopilot Landing System Development, and Refinement](/pdf/sample_presentation.pdf)
