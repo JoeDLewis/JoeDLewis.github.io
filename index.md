@@ -21,7 +21,7 @@
 
 ---
 [Response of a T-Beam Under Load using Three Methods](http://example.com/)
-<img src="images/TBeam.jpg?raw=true"/>
+<img src="images/TBeam.png?raw=true"/>
 
 ---
 
