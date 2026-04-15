@@ -2,6 +2,8 @@
 
 ---
 
+<img src="images/AirbusEngine.jpg?raw=true"/>
+
 ### Task
 
 In my postgraduate studies at the University of Glasgow, I was tasked with designing a three shaft turbofan jet engine for the Airbus A320neo. I carried out a constraint analysis, a cycle analysis, and component design for the turbine and compressor stages using the free vortex assumption, all while optimising parameters to improve the specific fuel consumption (sfc) and thrust force of the engine.
