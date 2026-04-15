@@ -1,6 +1,8 @@
-# Response of a T-Beam Under Load using Three Methods
+# Response of a T-Beam Under Load, Using Three Methods
 
 ---
+
+<img src="images/TBeam.png?raw=true"/>
 
 ### Task
 
