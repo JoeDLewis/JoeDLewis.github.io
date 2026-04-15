@@ -25,6 +25,6 @@ In my postgraduate studies at the University of Glasgow, I was tasked with desig
 
 - The interpolation stage underdamped the system, and made the response not reach steady state and overdamped it but varying the aircraft velocity to 55m/s made it reach steady state again.
 
-### Technical
+### Technical Considerations
 
-- MATLAB and Simulink where models are implemented and refined.
+- MATLAB and Simulink: Where models are implemented and refined.
