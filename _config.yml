@@ -7,11 +7,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Aircraft Engineering BEng(Hons) at 2:1
   <br>
-  <i>University of the West of Scotland<i>
+  <i> University of the West of Scotland </i>
   <br><br>
   Aerospace Engineering PGCert
   <br>
-  <i>University of Glasgow<i>
+  <i> University of Glasgow </i>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
