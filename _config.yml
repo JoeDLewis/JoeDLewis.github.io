@@ -1,8 +1,8 @@
 logo: "/images/ProfilePic.jpg?raw=true" # your photo (or logo) here
 title: Joe D. Lewis # your name (or website title) here
-:<a href="https://www.linkedin.com/in/joe-lewis-9882b1224/"> My LinkedIn Profile </a>
 
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  <a href="https://www.linkedin.com/in/joe-lewis-9882b1224/"> My LinkedIn Profile </a>
   <br><br>
   Aircraft Engineering BEng(Hons) at 2:1
   From the University of the West of Scotland
