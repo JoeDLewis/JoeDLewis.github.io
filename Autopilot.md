@@ -3,6 +3,8 @@
 
 ---
 
+<img src="images/Runway.jpg?raw=true"/>
+
 ### Task
 
 In my postgraduate studies at the University of Glasgow, I was tasked with designing a state space model of an autopilot landing system, creating a continuous time simulation of the model in MATLAB and Simulink, and then implementing a control system using various methods to improve the performance of it.
