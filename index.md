@@ -24,9 +24,9 @@
 <img src="images/RCPlaneDesign.jpg?raw=true"/>
 
 ---
-[Response of a T-Beam Under Load using Three Methods](http://example.com/)
+[Response of a T-Beam Under Load using Three Methods](/TBeam.md)
 
-<img src="images/TBeam.png?raw=true"/>
+[![T-Beam](images/TBeam.png)](/TBeam.html)
 
 ---
 
