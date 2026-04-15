@@ -12,6 +12,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   Aerospace Engineering PGCert
   <br>
   <i> University of Glasgow </i>
+  <br>
+  ---
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
