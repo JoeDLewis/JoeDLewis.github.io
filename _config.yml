@@ -1,11 +1,14 @@
-title: Joe D. Lewis # your name (or website title) here
 logo: "/images/ProfilePic.jpg?raw=true" # your photo (or logo) here
+title: Joe D. Lewis # your name (or website title) here
+<a href="https://www.linkedin.com/in/joe-lewis-9882b1224/"> My LinkedIn Profile </a>
+
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  University of the West of Scotland: Aircraft Engineer BEng (Hons)
   <br><br>
-  University of Glasgow: Aerospace Engineering PGCert
+  Aircraft Engineering BEng(Hons) at 2:1
+  From the University of the West of Scotland
   <br><br>
-  <a href="https://www.linkedin.com/in/joe-lewis-9882b1224/"> My LinkedIn Profile </a> 
+  Aerospace Engineering PGCert
+  From the University of Glasgow
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
