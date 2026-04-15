@@ -9,14 +9,14 @@
 [![Turbofan Engine](images/AirbusEngine.jpg)](/Turbofan.html)
 
 ---
-[Airplane Autopilot Landing System Development, and Refinement](/Autopilot.md)
+[Autopilot Landing System Development, and Controller Implementation](/Autopilot.md)
 
 [![Runway](images/Runway.jpg)](/Autopilot.html)
 
 ---
-[Winglet Design, Simulation, and Optimisation for a Boeing 737-800](http://example.com/)
+[Winglet Design, Simulation, and Optimisation for a Boeing 737-800](/Winglet.md)
 
-<img src="images/Winglet.jpg?raw=true"/>
+[![Winglet](images/Winglet.jpg)](/Winglet.html)
 
 ---
 [RC STOL Plane Group Design Project](http://example.com/)
