@@ -26,7 +26,7 @@ In my fourth year of my undergraduate degree, I was tasked with determining the 
 
 - The FEA deflection results differed from the experiment by only 2% and 5% respectively making it the most effective method for simulating the experiment.
 
-### Technical
+### Technical Considerations
 
 - **DesignModeller**: CAD Software
 
