@@ -29,7 +29,7 @@ In my postgraduate studies at the University of Glasgow, I was tasked with desig
   
 - The value for sfc was anticipated in the constraint analysis to be 0.012kg/kNs, but was calculated at 0.0198kg/kNs in the cycle analysis. For a modern turbofan engine this is an unacceptable level for fuel efficiency. To keep weight as low as possible, I was restricted by my project specification to have each of the three turbines be kept to a single stage, meaning the three pressure ratios were kept low. I would recommend increasing the number of turbine stages and increasing bypass ratio, allowing for higher pressure ratios and therefore, a lower sfc at the detriment to weight reduction.
 
-### Technical
+### Technical Considerations
 
 - **Microsoft Excel**: Constraint analysis
 
