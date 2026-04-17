@@ -29,4 +29,4 @@ In my postgraduate studies at the University of Glasgow, I was tasked with desig
 
 ### Technical Considerations
 
-- MATLAB and Simulink: Where models are implemented and refined.
+- **MATLAB** and **Simulink**: Where mathematical models are implemented into a continuois time simulation and refined.
