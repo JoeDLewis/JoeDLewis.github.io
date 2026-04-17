@@ -21,7 +21,7 @@
 ---
 [RC STOL Plane Group Design Project](http://example.com/)
 
-<img src="images/RCPlaneDesign.jpg?raw=true"/>
+[![RCPlane](images/RCPlaneDesign.jpg)](/RCPlaneGDP.html)
 
 ---
 [Response of a T-Beam Under Load, Using Three Methods](/TBeam.md)
