@@ -21,13 +21,13 @@ In my postgraduate studies at the University of Glasgow, I was tasked with desig
 
 ### Results
 
-- Calculation of design point, thrust, and expected sfc, all fall within ranges expected for modern engines.
+- Calculation of design point (0.45), thrust (174kN per engine at take-off), and expected sfc (0.012kg/kNs), all fall within ranges expected for modern engines.
 
-- Parametric study for the cycle analysis returned results that would be suitable for the Airbus A320neo and other similarly sized modern aircraft.
+- Parametric study for the cycle analysis returned results that would be suitable for the Airbus A320neo and other similarly sized modern aircraft, for example: the overall pressure ratio = 19.8, bypass raio = 8, TET = 1500k, engine diameter = 2.53m.
 
 - Compressor and turbine blade geometries successfully meet the necessary pressure ratio values calculated in the cycle analysis before, whilst also being reasonable given the restrictions of modern material selection and blade cooling systems.
   
-- The value for sfc was anticipated to be 0.012kg/kNs, but after the parametric study it resulted in 0.02kg/kNs, the lowest it could go given the restrictions on the assignment. This value is too high and therefore the fuel efficiency of the engine is lower than what would be expected of a modern turbofan engine. This indicates more more refinement work is needed. 
+- The value for sfc was anticipated in the constraint analysis to be 0.012kg/kNs, but was calculated at 0.0198kg/kNs in the cycle analysis. For a modern turbofan engine this is an unacceptable level for fuel efficiency. To keep weight as low as possible, I was restricted by my project specification to have each of the three turbines be kept to a single stage, meaning the three pressure ratios were kept low. I would recommend increasing the number of turbine stages and increasing bypass ratio, allowing for higher pressure ratios and therefore, a lower sfc at the detriment to weight reduction.
 
 ### Technical
 
