@@ -10,7 +10,7 @@ In my fourth year of my undergraduate degree, I was tasked with determining the 
 
 ### Actions
 
-- Conducted an experiment where a T-beam has loads of 150N and 300N applied to it with strain gauges measuring the strain experienced by the beam at various points around the beam.
+- I Conducted an experiment where a T-beam has loads of 150N and 300N applied to it with strain gauges measuring the strain experienced by the beam at various points around the beam.
 
 - Recreated the Beam geometry in ANSYS DesignModeller and ensured high mesh quality.
 
@@ -28,6 +28,6 @@ In my fourth year of my undergraduate degree, I was tasked with determining the 
 
 ### Technical
 
-- CAD software: DesignModeller
+- **DesignModeller**: CAD Software
 
-- 3D Solid Body Finite Element Analysis (FEA): ANSYS Static Structural
+- **ANSYS Static Structural**:3D Solid Body Finite Element Analysis (FEA)
