@@ -30,4 +30,4 @@ In my fourth year of my undergraduate degree, I was tasked with determining the 
 
 - **DesignModeller**: CAD Software
 
-- **ANSYS Static Structural**:3D Solid Body Finite Element Analysis (FEA)
+- **ANSYS Static Structural**: 3D Solid Body Finite Element Analysis (FEA)
