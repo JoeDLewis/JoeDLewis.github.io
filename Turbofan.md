@@ -26,9 +26,11 @@ In my postgraduate studies at the University of Glasgow, I was tasked with desig
 - Parametric study for the cycle analysis returned results that would be suitable for the Airbus A320neo and other similarly sized modern aircraft.
 
 - Compressor and turbine blade geometries successfully meet the necessary pressure ratio values calculated in the cycle analysis before, whilst also being reasonable given the restrictions of modern material selection and blade cooling systems.
+  
+- The value for sfc was anticipated to be 0.012kg/kNs, but after the parametric study it resulted in 0.02kg/kNs, the lowest it could go given the restrictions on the assignment. This value is too high and therefore the fuel efficiency of the engine is lower than what would be expected of a modern turbofan engine. This indicates more more refinement work is needed. 
 
 ### Technical
 
-- Constraint analysis: Microsoft Excel
+- **Microsoft Excel**: Constraint analysis
 
-- Cycle analysis and component design: MATLAB
+- **MATLAB**: Cycle analysis and component design
