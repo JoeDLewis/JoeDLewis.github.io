@@ -20,4 +20,4 @@ In my undergraduate fourth year, I was involved in a group project where we were
 -	After considering multiple design choices, two spanwise spars offer the wing structure, with the wings sliding into them and screws holding the wing to the spars, with external struts used to minimise internal structures, since the drag they create at this speed being negligible.
 
 ### Technical Considerations
-**XFLR5**: Initial performance data of the wings (CL/CD graph, Lift slope (CL/alpha) graph, etc.)
+- **XFLR5**: Initial performance data of the wings (CL/CD graph, Lift slope (CL/alpha) graph, etc.)
