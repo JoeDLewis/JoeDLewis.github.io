@@ -33,6 +33,6 @@ For my dissertation in the fourth year of my undergraduate degree, I was tasked 
 
 ### Technical
 
-- CAD Software: ANSYS DesignModeller
+- **ANSYS DesignModeller**:CAD Software
 
-- CFD Software: ANSYS Fluent
+- **ANSYS Fluent**: CFD Software
