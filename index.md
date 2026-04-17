@@ -19,7 +19,7 @@
 [![Winglet](images/Winglet.jpg)](/Winglet.html)
 
 ---
-[RC STOL Plane Group Design Project](http://example.com/)
+[RC STOL Plane Group Design Project](http://RCPlaneGDP.md/)
 
 [![RCPlane](images/RCPlaneDesign.jpg)](/RCPlaneGDP.html)
 
