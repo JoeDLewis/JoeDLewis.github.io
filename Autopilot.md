@@ -11,9 +11,9 @@ In my postgraduate studies at the University of Glasgow, I was tasked with desig
 
 ### Actions
 
-- From first principles, developed a mathematical model for the system and then converted it into a state space model.
+- From first principles, I developed a mathematical model for the system and then converted it into a state space model.
 
-- After appropriate step size chosen, model was successfully implemented into a continuous time simulation in MATLAB and Simulink.
+- After appropriate step size was chosen, the model was successfully implemented into a continuous time simulation in MATLAB and Simulink.
 
 - Coupler gain refined, and implementation of integral term to create a PI controller for the MATLAB and Simulink systems.
 
@@ -25,7 +25,7 @@ In my postgraduate studies at the University of Glasgow, I was tasked with desig
 
 - The implementation of the PI controller and refinement of those values created a perfectly damped response that reached steady state in both MATLAB and Simulink.
 
-- The interpolation stage underdamped the system, and made the response not reach steady state and overdamped it but varying the aircraft velocity to 55m/s made it reach steady state again.
+- The interpolation stage overdamped the system, and made the response not reach steady state, but varying the aircraft velocity to 55m/s made it reach steady state again.
 
 ### Technical Considerations
 
