@@ -10,6 +10,7 @@ In my postgraduate studies at the University of Glasgow, I was tasked with desig
 
 ### Actions
 - Using Microsoft Excel, a constraint analysis was created to calculate the design point, allowing me to ascertain the thrust which will be required of the engine, and the expected sfc.
+<img src="images/ConstraintAnalysis.png?raw=true"/>
 
 - The cycle analysis was conducted using MATLAB where stagnation pressures and temperatures before and after each stage of the engine were calculated.
 
@@ -24,6 +25,7 @@ In my postgraduate studies at the University of Glasgow, I was tasked with desig
 - Calculation of design point (0.45), thrust (174kN per engine at take-off), and expected sfc (0.012kg/kNs), all fall within ranges expected for modern engines.
 
 - Parametric study for the cycle analysis returned results that would be suitable for the Airbus A320neo and other similarly sized modern aircraft, for example: the overall pressure ratio = 19.8, bypass raio = 8, TET = 1500k, engine diameter = 2.53m.
+<img src="images/APBypassDiameter?raw=true"/>
 
 - Compressor and turbine blade geometries and angles successfully meet the necessary pressure ratio values calculated in the cycle analysis before, whilst also being reasonable given the restrictions of modern material selection and blade cooling systems. Some resulting design values: number of IP compressor stages = 7, and HP compressor stages = 6, IP shaft speed = 7800rpm, HP shaft speed = 9000rpm.
   
