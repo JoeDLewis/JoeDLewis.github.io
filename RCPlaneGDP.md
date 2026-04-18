@@ -15,8 +15,14 @@ In my undergraduate fourth year, I was involved in a group project where we were
 
 ### Results
 -	The wingspan was set to the legal maximum, 2m. The NACA 22112 airfoil is selected due to it’s high CLmax. The aspect ratio of 10, sweep angle of 0 degrees, and taper ratio of one are selected due to historical precedence. The wing geometry is put into XFLR5 to gain some initial values of performance.
+
+<img src="images/XFLRWing.png?raw=true"/>
+
 -	Vertical wing placement was selected due to the inherent roll stability and lack of internal fuselage structure, allowing for components within the fuselage to be uninhibited. Dihedral was deemed unnecessary for this design.
 -	The control surfaces were designed in accordance with historical data.
+
+<img src="images/ControlSurfaces.png?raw=true"/>
+
 -	After considering multiple design choices, two spanwise spars provide the wing's structure, with the wings sliding into them which are screwed into place, with external struts used to minimise internal structures, since the drag they create at this speed is negligible.
 
 ### Technical Considerations
