@@ -14,6 +14,8 @@ In my fourth year of my undergraduate degree, I was tasked with determining the 
 
 - Recreated the beam geometry in ANSYS DesignModeller and ensured high mesh quality.
 
+<img src="images/BeamMesh.png?raw=true"/>
+
 - Conducted a FEA simulation with the same conditions as the experiment in ANSYS Structural using the 3D Solid body method.
 
 - The Bernouli-Euler theory of elasticity and Macauley’s method allowed for the same conditions of the experiment to be recreated using only mathematical theory.
@@ -25,6 +27,8 @@ In my fourth year of my undergraduate degree, I was tasked with determining the 
 - The theory method differed from the experiment by 3% for the 150N load and 6% for the 300N load.
 
 - The FEA deflection results differed from the experiment by only 2% and 5% respectively making it the most effective method for simulating the experiment.
+
+<img src="images/StressData.png?raw=true"/>
 
 ### Technical Considerations
 
