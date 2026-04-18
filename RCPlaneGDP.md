@@ -21,7 +21,7 @@ In my undergraduate fourth year, I was involved in a group project where we were
 -	Vertical wing placement was selected due to the inherent roll stability and lack of internal fuselage structure, allowing for components within the fuselage to be uninhibited. Dihedral was deemed unnecessary for this design.
 -	The control surfaces were designed in accordance with historical data.
 
-<img src="images/ControlSurfaces.png?raw=true"/>
+<img src="images/ControlSufaces.png?raw=true"/>
 
 -	After considering multiple design choices, two spanwise spars provide the wing's structure, with the wings sliding into them which are screwed into place, with external struts used to minimise internal structures, since the drag they create at this speed is negligible.
 
