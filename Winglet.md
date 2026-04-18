@@ -13,7 +13,7 @@ For my dissertation in the fourth year of my undergraduate degree, I was tasked 
 
 - Conducted a literature review on the field of winglets.
 
-- Created a CAD model of a Boeing 737-800 wing in ANSYS DesignModeller, along with two winglet designs: a single blade blended winglet and, a double bladed blended split winglet.
+- Created a CAD model of a Boeing 737-800 wing in ANSYS DesignModeller, along with two winglet designs: a single-blade blended winglet and, a double-bladed blended split winglet.
 
 - Created a mesh domain around the wing and ensured high mesh quality before conducting a mesh sensitivity study.
 
@@ -25,9 +25,9 @@ For my dissertation in the fourth year of my undergraduate degree, I was tasked 
 
 ### Results:
 
-- The single bladed blended winglet increased the lift of the wing by 3.31% and reduced the drag by 2.57%.
+- The single-bladed blended winglet increased the lift of the wing by 3.31% and reduced the drag by 2.57%.
 
-- The double bladed blended split winglet increased the lift by 6.07% and reduced the drag by 7.29% compared to the base wing, meaning this was the optimal choice for the Boeing 737-800.
+- The double-bladed blended split winglet increased the lift by 6.07% and reduced the drag by 7.29% compared to the base wing, meaning this was the optimal choice for the Boeing 737-800.
 
 - For each additional blade, the viscous drag increased however, this was offset by the reduction in Pressure drag.
 
