@@ -35,8 +35,6 @@ For my dissertation in the fourth year of my undergraduate degree, I was tasked 
 
 - During the parametric study, varying the taper ratio and cant angle of the single blade blended winglet improved the glide ratio by 0.32, a significant improvement.
 
-<img src="images/CLCDCant.png?raw=true"/>
-
 ### Technical Considerations
 
 - **ANSYS DesignModeller**: CAD Software
