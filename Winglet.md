@@ -15,7 +15,11 @@ For my dissertation in the fourth year of my undergraduate degree, I was tasked 
 
 - Created a CAD model of a Boeing 737-800 wing in ANSYS DesignModeller, along with two winglet designs: a single blade blended winglet and, a double bladed blended split winglet.
 
+<img src="images/CADWinglet.png?raw=true"/>
+
 - Created a mesh domain around the wing and ensured high mesh quality before conducting a mesh sensitivity study.
+
+<img src="images/WingletMesh.png?raw=true"/>
 
 - Conducted a CFD analysis of the designs to compare the lift and drag efficiency of the designs.
 
@@ -29,7 +33,11 @@ For my dissertation in the fourth year of my undergraduate degree, I was tasked 
 
 - For each additional blade, the viscous drag increased however, this was offset by the reduction in Pressure drag.
 
+<img src="images/WingletDragBdown.png?raw=true"/>
+
 - During the parametric study, varying the taper ratio and cant angle of the single blade blended winglet improved the glide ratio by 0.32, a significant improvement.
+
+<img src="images/CLCDCant.png?raw=true"/>
 
 ### Technical Considerations
 
