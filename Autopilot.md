@@ -21,9 +21,13 @@ In my postgraduate studies at the University of Glasgow, I was tasked with desig
 
 ### Results
 
-- The implementation of the mathematical model was successful however, the response was underdamped.
+- The implementation of the mathematical model was successful however, the response was underdamped and became unstable.
+
+<img src="images/MATLABUnderdamped.png?raw=true"/>
 
 - The implementation of the PI controller and refinement of those values created a perfectly damped response that reached steady state in both MATLAB and Simulink.
+
+<img src="images/MATLABDamped.png?raw=true"/>
 
 - The interpolation stage overdamped the system, and made the response not reach steady state, but varying the aircraft velocity to 55m/s made it reach steady state again.
 
