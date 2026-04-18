@@ -23,7 +23,7 @@ In my postgraduate studies at the University of Glasgow, I was tasked with desig
 
 - The implementation of the mathematical model was successful however, the response was underdamped. In practice, this means that the plane would oscilate from side to side whilst approaching the runway, never actually settling on a straight path towards it. The lateral distance of the plane from the centreline of the runway is shown below as YR.
 
-<img src="images/MATLABUnderdampe.png?raw=true"/>
+<img src="images/MATLABUnderdamped.png?raw=true"/>
 
 - The implementation of the PI controller and refinement of those values created a perfectly damped response that reached steady state in both MATLAB and Simulink. Again shown below with YR, inthis instance the plane corrects course to be in line with the runway and then holds that heading.
 
