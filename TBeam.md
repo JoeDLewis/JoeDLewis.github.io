@@ -10,9 +10,9 @@ In my fourth year of my undergraduate degree, I was tasked with determining the 
 
 ### Actions
 
-- I Conducted an experiment where a T-beam has loads of 150N and 300N applied to it with strain gauges measuring the strain experienced by the beam at various points around the beam.
+- I conducted an experiment where a T-beam has loads of 150N and 300N applied to it with strain gauges measuring the strain experienced by the beam at various points around the beam.
 
-- Recreated the Beam geometry in ANSYS DesignModeller and ensured high mesh quality.
+- Recreated the beam geometry in ANSYS DesignModeller and ensured high mesh quality.
 
 - Conducted a FEA simulation with the same conditions as the experiment in ANSYS Structural using the 3D Solid body method.
 
