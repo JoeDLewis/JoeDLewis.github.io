@@ -25,7 +25,7 @@ In my postgraduate studies at the University of Glasgow, I was tasked with desig
 
 <img src="images/MATLABUnderdamped.png?raw=true"/>
 
-- The implementation of the PI controller and refinement of those values created a perfectly damped response that reached steady state in both MATLAB and Simulink. Again shown below with YR, in this instance the plane corrects course to be in line with the runway and then holds that heading.
+- The implementation of the PI controller and refinement of those values created a perfectly damped response that reached steady state in both MATLAB and Simulink. Upon reviewing the lateral displacement after the implementation of the PI controller below, the plane corrects course to be in line with the runway and then holds that heading, the ideal scenario.
 
 <img src="images/MATLABDamped.png?raw=true"/>
 
