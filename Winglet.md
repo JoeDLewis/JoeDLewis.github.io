@@ -39,6 +39,6 @@ For my dissertation in the fourth year of my undergraduate degree, I was tasked 
 
 ### Technical Considerations
 
-- **ANSYS DesignModeller**:CAD Software
+- **ANSYS DesignModeller**: CAD Software
 
 - **ANSYS Fluent**: CFD Software
